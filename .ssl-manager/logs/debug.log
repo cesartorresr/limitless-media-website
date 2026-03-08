@@ -1,0 +1,5 @@
+time="2025-06-27T16:34:00-04:00" level=error msg="Error executing CLI: panel credentials not found"
+time="2025-06-27T16:34:06-04:00" level=info msg="Domain thelimitlessmedia.co is now under management"
+time="2025-06-27T16:34:06-04:00" level=info msg="Starting AutoSSL process..."
+time="2025-06-27T16:34:07-04:00" level=info msg="Result[thelimitlessmedia.co]"
+time="2025-06-27T16:34:07-04:00" level=info msg="AutoSSL process completed."
